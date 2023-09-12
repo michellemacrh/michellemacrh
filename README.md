@@ -2,11 +2,11 @@
 
 🙋‍♀️ Michelle McCausland
 
-👩‍🏫 Senior Technical Writer - Ansible.
+👩‍🏫 Senior Technical Writer - Ansible
 
 💼 Red Hat
 
-📍 Based in Ireland, working remotely.
+📍 Based in Ireland, working remotely
 
 👩‍💻 Personal GH: [heymichellemac](https://github.com/heymichellemac)
 
