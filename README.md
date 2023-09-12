@@ -1,9 +1,13 @@
 ## Hi there 👋
 
-Michelle McCausland
+🙋‍♀️ Michelle McCausland
 
-Senior Technical Writer - Ansible (Ireland)
+👩‍🏫 Senior Technical Writer - Ansible.
 
-Personal GH: [heymichellemac](https://github.com/heymichellemac)
+💼 Red Hat
+
+📍 Based in Ireland, working remotely.
+
+👩‍💻 Personal GH: [heymichellemac](https://github.com/heymichellemac)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=michellemacrh&show_icons=true&theme=dracula)
