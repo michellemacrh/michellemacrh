@@ -11,3 +11,5 @@ Hi there 👋
 👩‍💻 Personal GH: [heymichellemac](https://github.com/heymichellemac)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=michellemacrh&show_icons=true&theme=dracula)
+
+![My Streak](https://github-readme-streak-stats.herokuapp.com/?user=michellemacrh&theme=dracula&hide_border=false)
