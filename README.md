@@ -12,8 +12,6 @@ Hi there 👋
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=michellemacrh&show_icons=true&theme=dracula)
 
-![My Streak](https://github-readme-streak-stats.herokuapp.com/?user=michellemacrh&theme=dracula&hide_border=false)
-
+<!-- ![My Streak](https://github-readme-streak-stats.herokuapp.com/?user=michellemacrh&theme=dracula&hide_border=false)
 ---
-
-[![An image of @michellemacrh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/michellemacrh)](https://holopin.io/@michellemacrh)
+[![An image of @michellemacrh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/michellemacrh)](https://holopin.io/@michellemacrh) -->
